@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4268705 */
+  src: url('iconfont.woff2?t=1695706047996') format('woff2'),
+       url('iconfont.woff?t=1695706047996') format('woff'),
+       url('iconfont.ttf?t=1695706047996') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-taozi:before {
+  content: "\e604";
+}
+
+.icon-taozi1:before {
+  content: "\e605";
+}
+
+.icon-copy:before {
+  content: "\e66a";
+}
+
+.icon-hide:before {
+  content: "\e673";
+}
+
+.icon-fullscreen-shrink:before {
+  content: "\e676";
+}
+
+.icon-fullscreen-expand:before {
+  content: "\e675";
+}
+
+.icon-jubao:before {
+  content: "\e61d";
+}
+
+.icon-gengduo:before {
+  content: "\e61e";
+}
+
+.icon-fanhui:before {
+  content: "\e61f";
+}
+
+.icon-guanbi:before {
+  content: "\e620";
+}
+
+.icon-a-fenxiang2:before {
+  content: "\e621";
+}
+
+.icon-baohuhaoma:before {
+  content: "\e622";
+}
+
+.icon-a-xiala2:before {
+  content: "\e623";
+}
+
+.icon-jinru:before {
+  content: "\e624";
+}
+
+.icon-xiala:before {
+  content: "\e625";
+}
+
+.icon-tishi:before {
+  content: "\e626";
+}
+
